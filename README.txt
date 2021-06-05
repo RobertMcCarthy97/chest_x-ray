@@ -10,7 +10,7 @@ There are two jupyter notebooks provided:
 	by retraining then evaluating a model
 	
 2. evaluate_trained_models.ipynb
-	Run this notebook to evaluate the saved trained models,
+	Run this notebook to evaluate the saved trained models
 	whose results were presented in the paper.
 	WARNING: models have not been saved to github repo due to large file size restrictions
 	
