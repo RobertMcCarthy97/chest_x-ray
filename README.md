@@ -1,7 +1,11 @@
+# Chest X-ray
+
 In this project, CNNs are trained to detect pneumonia in chest x-rays.
 
 The project report can be found in the following pdf file:
 'COMP47650 Deep Learning Project: Pneumonia Chest X-Ray Classification.pdf'
+
+### Notebooks
 
 There are two jupyter notebooks provided:
 
@@ -17,8 +21,7 @@ There are two jupyter notebooks provided:
 Further details can be found in the individual notebooks.
 
 
-Directory Structure
--------------------
+### Directory Structure
 
 - utils (folder: contains utility functions)
 	- data_loaders.py (contains functions related to obtaining the data and data loaders)
