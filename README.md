@@ -4,7 +4,7 @@
   <img width="600" src="https://github.com/RobertMcCarthy97/chest_x-ray/blob/main/experiments/resnet1fc/heatmap.png">
 </p>
 
-In this project, CNNs are trained to detect pneumonia in chest x-rays.
+In this project CNNs are trained to detect pneumonia in chest x-rays.
 
 The project report can be found in the following pdf file:
 'COMP47650 Deep Learning Project: Pneumonia Chest X-Ray Classification.pdf'
